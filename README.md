@@ -1,2 +1,0 @@
-# alphabet
-Robotics A-Z
