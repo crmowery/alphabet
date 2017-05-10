@@ -47,6 +47,11 @@ section {
 	margin-bottom: 0px;
 }
 
+.navbar-default {
+    background-color: transparent; 
+    border-color: transparent;
+}
+
 .vertical-menu {
     width: 60px;
 	position: fixed;
@@ -82,5 +87,11 @@ section {
 	}
 	* {
 		text-align: center;
+	}
+}
+
+@media (min-width: 900px) {
+	.mobile-button {
+		display: none;
 	}
 }
